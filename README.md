@@ -1,0 +1,1 @@
+This project introduces binary trees in C: how to create nodes, link them together, and work with tree structures using pointers and dynamic memory.
